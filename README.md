@@ -1,5 +1,7 @@
 # Week-5-_-AI-task
 
+# لتثبيت ال dependences
+
 1- لتثبيت ال (gazebo) : sudo apt install ros-humble-gazebo-
 
 2- نثبت ال (cartographer) عشان يسوي لنا المحاكاة و الخريطة :
@@ -17,6 +19,8 @@ sudo apt install ros-humble-navigation2
 &
 
 sudo apt install ros-humble-nav2-bringup
+
+# لتثبيت ال package
 
 4- لتثبيت ال ( Turtlebot3 package) :
 
